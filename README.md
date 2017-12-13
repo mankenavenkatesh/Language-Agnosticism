@@ -1,1 +1,1 @@
-This Branch Contains all the problems implemented in Go
+This Branch Contains all the problems implemented in JavaScript
