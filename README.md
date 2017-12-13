@@ -1,2 +1,2 @@
-This Branch Contains all the problems implemented in JAva
+This Branch Contains all the problems implemented in Scala.
 
