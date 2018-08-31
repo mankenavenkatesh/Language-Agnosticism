@@ -5,8 +5,8 @@ This folder contains implementations of
 - Specifics of Perl Programming
 
 
-## Installing Java8
-https://docs.oracle.com/javase/8/docs/technotes/guides/install/mac_jdk.html
+## Installing Perl
+Mac OSX has perl installed by default
 
 ## Executing
 - cd helloworld
