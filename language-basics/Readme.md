@@ -3,8 +3,8 @@ This folder contains implementations of
 - Concepts in C Programming
 - Specifics of C Programming
 
-## Installing Gcc
-Mac OSX has Perl installed 
+## Installing gcc
+http://gcc.gnu.org/install/binaries.html
 
 ## Compiling and Executing
 - cd helloworld
