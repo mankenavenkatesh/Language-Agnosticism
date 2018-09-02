@@ -1,5 +1,6 @@
-Language Agnoistic
-Same Problem Implemented in Different Programming Languages.
+#### Language Agnoistic - Should be able to code in various programming languages.
+
+- Same Problem Implemented in Different Programming Languages.
 
 Every branch will have folders With implementations like
 1. Language Basics
