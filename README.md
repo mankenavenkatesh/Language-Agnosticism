@@ -1,6 +1,8 @@
 ## Language Agnoistic
 - Should be able to code in various programming languages.
-- Same Problem Implemented in Different Programming Languages.
+- This repo contains branches for every language. 
+- Same Problem is Implemented in Different Programming Languages in their respective branches.
+
 
 Every branch will have folders With implementations like
 1. Language Basics
