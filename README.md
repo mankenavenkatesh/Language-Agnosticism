@@ -5,7 +5,7 @@
  -  Understand and implement differnt programming paradigms. 
 
 
-### Step1 (Code in differnt programming languages.)
+#### Step1 (Code in differnt programming languages.)
 - This repo contains branches for every language. 
 - Same Problem is Implemented in Different Programming Languages in their respective branches.
 
