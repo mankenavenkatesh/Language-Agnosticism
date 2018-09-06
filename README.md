@@ -14,6 +14,7 @@ Every branch will have folders With implementations like
 1. Language Basics
 2. Algorithms.
 3. Design Problems.
+4. Programming paradigms
 4. Blockchain Internals
 
 Problem statements and their solutions will be defined in separate git repositories like
