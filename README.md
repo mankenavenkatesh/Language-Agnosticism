@@ -24,3 +24,7 @@ Problem statements and their solutions will be defined in separate git repositor
 5. Blockchain Internals (https://github.com/mankenavenkatesh/blockchain-internals)
 
 and refered to above folders.
+
+
+#### References
+- http://websrv.dthu.edu.vn/attachments/newsevents/content2415/Programming_Languages_-_Principles_and_Paradigms_thereds1106.pdf
