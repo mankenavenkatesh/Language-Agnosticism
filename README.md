@@ -1,8 +1,8 @@
 # Language Agnoistic
 
 ## How to become langaguge agnoistic?
- - 1. Code in differnt programming languages.
- - 2. understand and implement differnt programming paradigms. 
+ -  Code in differnt programming languages.
+ -  Understand and implement differnt programming paradigms. 
 
 
 ### Step1 (Code in differnt programming languages.)
