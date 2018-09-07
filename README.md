@@ -23,6 +23,7 @@ Problem statements and their solutions will be defined in separate git repositor
 2. Algorithms. (https://github.com/mankenavenkatesh/algos)
 3. Design Problems. (https://github.com/mankenavenkatesh/DesignPatterns)
 4. Programming Paradigms (https://github.com/mankenavenkatesh/ProgrammingParadigms)
+5. Webapp-internals (https://github.com/mankenavenkatesh/webapp-internals)
 5. Blockchain Internals (https://github.com/mankenavenkatesh/blockchain-internals)
 
 and refered to above folders.
