@@ -3,13 +3,14 @@
 ## How to become langaguge agnoistic?
  -  Step1 - Code in differnt programming languages.
  -  Step2 - Understand and implement differnt programming paradigms. 
+ -  Step3 - Implement different algorithms in various programming languages.
+ -  Step4 - Implement design patterns in various programming languages.
+ -  Step5 - Implement Best practices in different programming languages.
+ -  Step6 - Implement webapps, webapp internals in different programming languages.
 
 
-#### Step1 - (Code in differnt programming languages.)
+### Approach
 - This repo contains branches for every language. 
-- Same Problem is Implemented in Different Programming Languages in their respective branches.
-
-
 Every branch will have folders With implementations like
 1. Language Basics
 2. Algorithms.
@@ -25,7 +26,3 @@ Problem statements and their solutions will be defined in separate git repositor
 5. Blockchain Internals (https://github.com/mankenavenkatesh/blockchain-internals)
 
 and refered to above folders.
-
-
-#### References
-- http://websrv.dthu.edu.vn/attachments/newsevents/content2415/Programming_Languages_-_Principles_and_Paradigms_thereds1106.pdf
