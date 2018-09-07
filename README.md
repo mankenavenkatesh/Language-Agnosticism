@@ -1,6 +1,6 @@
-# Language Agnoistic
+# Language Agnostic
 
-## How to become langaguge agnoistic?
+## How to become langaguge agnostic?
  -  Step1 - Code in differnt programming languages.
  -  Step2 - Understand and implement differnt programming paradigms. 
  -  Step3 - Implement different algorithms in various programming languages.
