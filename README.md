@@ -1,6 +1,6 @@
 # Language Agnostic
 
-## What does language agnosticsm mean?
+## What does language agnosticism mean?
 Language Agnosticism means choosing a language that best fits a particular task based on factors like ecosystem, developer skill-sets, performance etc. If you are a language agnostic aspirant, you need to transcend the boundary of a specific set of language. 
 
 ## Why should you be language agnostic?
