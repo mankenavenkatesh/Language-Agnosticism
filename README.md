@@ -1,10 +1,10 @@
 # Language Agnostic
 
 ## Why should you be language agnostic?
- 1. You become a complete software engineer rather than simply being a Java developer or C++ developer.
- 2. Helps figure out how to use certain language features effectively
- 3. Gives rise to nimble thinking
- 4. A language agnostic software developer is a happy software developer
+1. You become a complete software engineer rather than simply being a Java developer or C++ developer.
+2. Helps figure out how to use certain language features effectively
+3. Gives rise to nimble thinking
+4. A language agnostic software developer is a happy software developer
 
 ## How to become langaguge agnostic?
  -  Step1 - Code in differnt programming languages.
