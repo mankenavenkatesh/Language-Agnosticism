@@ -1,7 +1,7 @@
 # Language Agnostic
 
 ## What does language agnosticism mean?
-Language Agnosticism means choosing a language that best fits a particular task based on factors like ecosystem, developer skill-sets, performance etc. If you are a language agnostic aspirant, you need to transcend the boundary of a specific set of language. 
+It may sound scary at first, but all it means is more or less language independence. That is, your ability as a software engineer should not be limited to a very specific set of languages. Instead, you should be able to quickly learn new paradigms which fit your needs and use them effectively. In particular, I argue that software engineering is not simply about writing code: its about architecting a correct and well-designed solution to a problem. As a result, code is merely an expressive tool for realizing the engineering task you just performed.
 
 ## Why should you be language agnostic?
 1. You become a complete software engineer rather than simply being a Java developer or C++ developer.
