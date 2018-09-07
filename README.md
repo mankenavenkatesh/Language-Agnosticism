@@ -4,7 +4,6 @@
  1. You become a complete software engineer rather than simply being a Java developer or C++ developer.
  2. Helps figure out how to use certain language features effectively
  3. Gives rise to nimble thinking
-    'When you know various languages, you tend to get the knack for finding quick solutions to future problems. The reason for this is well justified. Since you can think about your problem in several frameworks, chances are high for you to find a cleaner and effective solution to your problem.'
  4. A language agnostic software developer is a happy software developer
 
 ## How to become langaguge agnostic?
