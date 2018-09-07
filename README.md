@@ -16,7 +16,7 @@ It may sound scary at first, but all it means is more or less language independe
  -  Step4 - Implement webapps, webapp internals in different programming languages.
  -  Step5 - Implement Best practices in different programming languages.
 ### Approach
-- This repo contains branches for every language. 
+This repo contains branches for every language. 
 Every branch will have folders With implementations like
 1. Language Basics
 2. Algorithms.
