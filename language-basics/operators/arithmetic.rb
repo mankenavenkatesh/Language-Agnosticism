@@ -1,0 +1,10 @@
+a = 3;
+b = 2;
+puts "a=#{a}";
+puts "b=#{b}";
+puts "a+b=#{(a + b)}";
+puts "a-b=#{(a - b)}";
+puts "a*b=#{(a * b)}";
+puts "a/b=#{(a / b)}";
+puts "a%b=#{(a % b)}";
+puts "a**b=#{(a ** b)}";
