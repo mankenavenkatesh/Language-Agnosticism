@@ -11,3 +11,6 @@ Javascript executes in browser.
 create a script file with your program
 embed script file in html file
 run the html file in browser
+
+## References
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
