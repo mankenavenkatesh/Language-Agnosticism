@@ -7,6 +7,14 @@ public class Gallery {
 	private Integer id;
 	private List<Object> images;
 	
+	public Gallery(int galleryId) {
+
+	}
+	
+	public Gallery() {
+		
+	}
+
 	public Integer getId() {
 		return id;
 	}
