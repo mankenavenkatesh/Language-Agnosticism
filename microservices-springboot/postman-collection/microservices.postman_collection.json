@@ -1,0 +1,54 @@
+{
+	"info": {
+		"_postman_id": "a7342786-330c-4e15-aa0f-58e14163396c",
+		"name": "microservices",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://localhost:8762/auth",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"username\" : \"admin\",\n\t\"password\" : \"12345\"\n}"
+				},
+				"url": "http://localhost:8762/auth"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8762/gallery",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhZG1pbiIsImF1dGhvcml0aWVzIjpbIlJPTEVfQURNSU4iXSwiaWF0IjoxNTQ2ODY1NzYyLCJleHAiOjE1NDY5NTIxNjJ9.L7UpODcvSqCVjkZRpQbyoZ_Ni3q1T-9VPFcv3KDZPQEvpbazoXPosmXz6zAo5x43uDet28eTnX-pVOaa9bax6Q",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": "http://localhost:8762/gallery"
+			},
+			"response": []
+		}
+	]
+}
