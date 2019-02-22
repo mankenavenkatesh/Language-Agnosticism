@@ -1,6 +1,19 @@
 # Language Agnostic
 
 ## Why do we have so many programming languages?
+In the beginning, there was nothing. Then came about massive advancements in computers at Bletchley Park, and with these advancements came the first methods for programming computers:
+Pushing Buttons that represent binary numbers
+Then someone said “hey, if we run the same code a few times, why do we have to push a button each time” and so came punch cards.
+
+Then people realised that they could run a program on a computer that will let them write code there. Thus, FORTRAN and Lisp were born. These were the first programming languages, but they were very complicated and hard to use.
+
+As time advanced, computers became stronger and more people wanted to program. Some people decided that it would be better to create newer, more powerful languages, and thus came about c, COBOL, Basic, and many others.
+
+But that wasn't it. People wanted simpler and more powerful programming languages, bringing about Java and C++.
+
+And yet, both Java and C++ are archaic by modern standards. Microsoft created a platform called .NET and merged it with Java and C++ into C#, merged .NET with BASIC to get Visual Basic, and later other programming languages, some of which took off, others which did not.
+
+But take C# and take a modern language like Go, Rust, and Python, all of which seem to be simpler than C#.
 
 ## What does language agnosticism mean?
 It may sound scary at first, but all it means is more or less language independence. That is, your ability as a software engineer should not be limited to a very specific set of languages. Instead, you should be able to quickly learn new paradigms which fit your needs and use them effectively. In particular, I argue that software engineering is not simply about writing code: it's about architecting a correct and well-designed solution to a problem. As a result, code is merely an expressive tool for realizing the engineering task you just performed.
