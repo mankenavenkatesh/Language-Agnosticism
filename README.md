@@ -39,6 +39,12 @@ It may sound scary at first, but all it means is more or less language independe
  -  Step3 - Implement different algorithms in various programming languages.
  -  Step4 - Implement webapps, webapp internals in different programming languages.
  -  Step5 - Implement Best practices in different programming languages.
+ 
+ ## How do we learn a new programming language?
+In general we learn in a number of different ways. Up to 10 different learning styles have been defined, but I think they can boil down to 3 main styles: Listen: let someone educate you. See: read stuff, watch someone else do it. Experience: just start and try it yourself, experiment, trial and error. Most people combine multiple styles when they learn something new. Let’s go one step further: when do people understand how something works (we are not talking about factual knowledge here)? If they hear, see, or experience cause and effect. That’s when we connect the dots. If you hit a play button and the music starts to play you understand the function of that button, and if you hit different kinds of buttons on different systems that all lead to “the music starts playing” you will probably understand that the triangle icon means “play”. When we learn how a system works or more specifically when we learn a new programming language, we can have different learning styles, but in the end it is about relating cause and effect. Whether you hear someone explain it, see someone do it, or experience it yourself. The difference between simple and complicated, and thus easy or difficult to learn, is due to the “distance” between cause and effect. If there are many steps between cause and effect it can be difficult to connect the two. If a “system” is a black-box with multiple inputs and outputs, with a complex relation among inputs and outputs it is difficult to determine cause and effect and hence it is difficult to understand the system. 
+
+Read more at: http://www.theenterprisearchitect.eu/blog/2013/02/14/designing-the-next-programming-language-understand-how-people-learn/
+
 ### Approach
 This repo contains branches for every language. 
 Every branch will have folders With implementations like
