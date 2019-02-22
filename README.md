@@ -45,7 +45,7 @@ Every branch will have folders With implementations like
 4. Blockchain Internals
 
 Problem statements and their solutions will be defined in separate git repositories like
-1. Language Basics- online compilers - https://www.tutorialspoint.com/codingground.htm
+1. Language Basics- online compilers - (https://github.com/mankenavenkatesh/ProgrammingLanguage)
 2. Algorithms. (https://github.com/mankenavenkatesh/algorithms)
 3. Programming Paradigms (https://github.com/mankenavenkatesh/ProgrammingParadigms)
 4. Webapp-internals (https://github.com/mankenavenkatesh/webapp-internals)
