@@ -15,6 +15,11 @@ And yet, both Java and C++ are archaic by modern standards. Microsoft created a 
 
 But take C# and take a modern language like Go, Rust, and Python, all of which seem to be simpler than C#.
 
+Underlying this fact is that all of these languages serve the same purpose: to turn human thoughts into the 1’s and 0’s that the computer understands. In highfalutin computer terms, they are all “Turing complete”.
+
+At their most foundational level, these languages are all the same. But on the surface – where humans interact with them – they vary a lot. This is where other concerns come into play.
+
+
 ## What does language agnosticism mean?
 It may sound scary at first, but all it means is more or less language independence. That is, your ability as a software engineer should not be limited to a very specific set of languages. Instead, you should be able to quickly learn new paradigms which fit your needs and use them effectively. In particular, I argue that software engineering is not simply about writing code: it's about architecting a correct and well-designed solution to a problem. As a result, code is merely an expressive tool for realizing the engineering task you just performed.
 
