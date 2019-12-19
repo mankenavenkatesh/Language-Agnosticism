@@ -37,6 +37,7 @@ It may sound scary at first, but all it means is more or less language independe
  -  Step1 - Learn and Code in differnt programming languages.
  -  Step2 - Understand and implement differnt programming paradigms. 
  -  Step3 - Implement different algorithms in various programming languages.
+ -  Step4 - Learn various libraries and Frameworks available in programming languages.
  -  Step4 - Implement webapps, webapp internals in different programming languages.
  -  Step5 - Implement Best practices in different programming languages.
  
