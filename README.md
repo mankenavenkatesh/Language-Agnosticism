@@ -72,7 +72,7 @@ Problem statements and their solutions will be defined in separate git repositor
 1. Language Basics - (https://github.com/mankenavenkatesh/ProgrammingLanguage)
 2. Programming Paradigms (https://github.com/mankenavenkatesh/ProgrammingParadigms)
 3. Algorithms. (https://github.com/mankenavenkatesh/algorithms)
-4. Webapp-internals (https://github.com/mankenavenkatesh/webapp-internals)
+4. Engineering-internals (https://github.com/mankenavenkatesh/engineering-internals)
 5. Blockchain Internals (https://github.com/mankenavenkatesh/blockchain-internals)
 
 and refered to above folders.
