@@ -38,8 +38,8 @@ It may sound scary at first, but all it means is more or less language independe
  -  Step2 - Understand and implement differnt programming paradigms. 
  -  Step3 - Implement different algorithms in various programming languages.
  -  Step4 - Learn various libraries and Frameworks available in programming languages.
- -  Step4 - Implement webapps, webapp internals in different programming languages.
- -  Step5 - Implement Best practices in different programming languages.
+ -  Step5 - Implement webapps, webapp internals in different programming languages.
+ -  Step6 - Implement Best practices in different programming languages.
  
  ## How do we learn a new programming language?
 In general we learn in a number of different ways. Up to 10 different learning styles have been defined, but I think they can boil down to 3 main styles: 
