@@ -12,3 +12,5 @@ https://golang.org/doc/install
 
 - `go helloWorld.go` will execute and prints output on console.
 
+References
+- https://www.golang-book.com/books/intro/10
