@@ -79,3 +79,7 @@ Problem statements and their solutions will be defined in separate git repositor
 6. Blockchain Internals (https://github.com/mankenavenkatesh/blockchain-internals)
 
 and refered to above folders.
+
+
+References
+- Become 10x coder - https://10xcod3r.com/
