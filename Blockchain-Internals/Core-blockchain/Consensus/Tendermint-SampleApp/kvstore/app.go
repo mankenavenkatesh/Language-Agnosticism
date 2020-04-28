@@ -2,6 +2,7 @@ package main
 
 import (
 	"bytes"
+	"log"
 
 	"github.com/dgraph-io/badger"
 
@@ -22,12 +23,14 @@ func NewKVStoreApplication(db *badger.DB) *KVStoreApplication {
 }
 
 func (KVStoreApplication) Info(req abcitypes.RequestInfo) abcitypes.ResponseInfo {
+	log.Println("node info")
 	return abcitypes.ResponseInfo{}
 }
 func (KVStoreApplication) SetOption(req abcitypes.RequestSetOption) abcitypes.ResponseSetOption {
 	return abcitypes.ResponseSetOption{}
 }
 func (app *KVStoreApplication) DeliverTx(req abcitypes.RequestDeliverTx) abcitypes.ResponseDeliverTx {
+	log.Println("Received delivertx")
 	code := app.isValid(req.Tx)
 	if code != 0 {
 		return abcitypes.ResponseDeliverTx{Code: code}
@@ -41,6 +44,7 @@ func (app *KVStoreApplication) DeliverTx(req abcitypes.RequestDeliverTx) abcityp
 	return abcitypes.ResponseDeliverTx{Code: 0}
 }
 func (app *KVStoreApplication) CheckTx(req abcitypes.RequestCheckTx) abcitypes.ResponseCheckTx {
+	log.Println("checking tx")
 	code := app.isValid(req.Tx)
 	return abcitypes.ResponseCheckTx{Code: code, GasWanted: 1}
 }
@@ -75,11 +79,13 @@ func (app *KVStoreApplication) isValid(tx []byte) (code uint32) {
 }
 
 func (app *KVStoreApplication) Commit() abcitypes.ResponseCommit {
+	// log.Println("received commit")
 	app.currentBatch.Commit()
 	return abcitypes.ResponseCommit{Data: []byte{}}
 }
 func (app *KVStoreApplication) Query(reqQuery abcitypes.RequestQuery) (resQuery abcitypes.ResponseQuery) {
 	resQuery.Key = reqQuery.Data
+	log.Println("Received query")
 	err := app.db.View(func(txn *badger.Txn) error {
 		item, err := txn.Get(reqQuery.Data)
 		if err != nil && err != badger.ErrKeyNotFound {
@@ -105,10 +111,12 @@ func (KVStoreApplication) InitChain(req abcitypes.RequestInitChain) abcitypes.Re
 	return abcitypes.ResponseInitChain{}
 }
 func (app *KVStoreApplication) BeginBlock(req abcitypes.RequestBeginBlock) abcitypes.ResponseBeginBlock {
+	// log.Println("Received begin block")
 	app.currentBatch = app.db.NewTransaction(true)
 	return abcitypes.ResponseBeginBlock{}
 }
 
 func (KVStoreApplication) EndBlock(req abcitypes.RequestEndBlock) abcitypes.ResponseEndBlock {
+	// log.Println("received endblock")
 	return abcitypes.ResponseEndBlock{}
 }
