@@ -63,7 +63,7 @@ Read more at: http://www.theenterprisearchitect.eu/blog/2013/02/14/designing-the
 This repo contains branches for every language. 
 Every branch will have folders With implementations like
 
-1. Language Basics - Explains fundamentals of a programming language. Explains how to build a new programming language.
+1. Programming Constructs - Explains fundamentals of a programming language.
 2. Programming paradigms - Explains all programming paradigms and how they are used in designing new programming language.
 3. Algorithms.
 4. Frameworks-Libraries
@@ -71,7 +71,7 @@ Every branch will have folders With implementations like
 6. Blockchain-Internals
 
 Problem statements and their solutions will be defined in separate git repositories like
-1. Language Basics - (https://github.com/mankenavenkatesh/ProgrammingLanguage)
+1. Programming Constructs - (https://github.com/mankenavenkatesh/ProgrammingConstructs)
 2. Programming Paradigms (https://github.com/mankenavenkatesh/ProgrammingParadigms)
 3. Algorithms. (https://github.com/mankenavenkatesh/algorithms)
 4. Frameworks-Libraries (https://github.com/mankenavenkatesh/Frameworks-Libraries)
