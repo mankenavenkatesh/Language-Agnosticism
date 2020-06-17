@@ -1,8 +1,11 @@
+# Rust
+
 This folder contains implementations of
 
 - Basic Rust Programming
 - Concepts in Rust Programming
 - Specifics of Rust Programming
+
 
 ## Installing Rust
 https://doc.rust-lang.org/1.3.0/book/installing-rust.html
