@@ -18,3 +18,4 @@ References
 - https://www.youtube.com/watch?v=VFCXjYEBR4E
 - https://www.haskell.org/tutorial/goodies.html
 - https://www.schoolofhaskell.com/school/starting-with-haskell/introduction-to-haskell/1-haskell-basics
+- https://www.haskell.org/onlinereport/haskell2010/haskellch6.html
