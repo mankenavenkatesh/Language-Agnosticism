@@ -19,3 +19,5 @@ https://doc.rust-lang.org/1.3.0/book/installing-rust.html
 
 ## References
 - https://doc.rust-lang.org/book/ch00-00-introduction.html
+
+- https://www.javatpoint.com/rust-features
