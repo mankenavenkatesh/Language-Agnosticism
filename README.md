@@ -23,3 +23,7 @@ References
 - https://www.youtube.com/watch?v=SZvs15hC81U
 - https://www.youtube.com/watch?v=A3AdN7U24iU
 - https://www.youtube.com/watch?v=_wy4tuFEpz0
+
+
+### Rust Pair Programming
+- https://www.youtube.com/watch?v=EM_j4suuA1Y&list=PLCQVvhKUrTN9VfaQx2AyOSAstwENaGkYA
