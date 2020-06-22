@@ -16,6 +16,7 @@ This Branch Contains all the problems implemented in Rust Programming Language
 
 ### Concurrency
 
+### Safety
 
 References
 - https://www.youtube.com/watch?v=KLMtnA2mGKs
