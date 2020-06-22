@@ -1,4 +1,5 @@
 # Array iteration 
+ # needs fixes
 
 declare -a arr
 
